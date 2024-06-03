@@ -1,5 +1,15 @@
 # llamaindex
 
+## 0.3.16
+
+### Patch Changes
+
+- 631f000: feat: DeepInfra LLM implementation
+- 6b1ded4: add gpt4o-mode, invalidate cache and skip diagonal text to LlamaParseReader
+- da1f025: add concurrency management for SimpleDirectoryReader
+- 54230f0: feat: Gemini GA release models
+- a29d835: setDocumentHash should be async
+
 ## 0.3.15
 
 ### Patch Changes
