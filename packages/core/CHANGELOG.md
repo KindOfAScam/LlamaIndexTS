@@ -1,5 +1,11 @@
 # llamaindex
 
+## 0.3.18
+
+### Patch Changes
+
+- a51ed8d: feat: add support for managed identity for Azure OpenAI
+
 ## 0.3.17
 
 ### Patch Changes
